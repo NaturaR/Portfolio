@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Lobster&family=Rubik+Glitch&display=swap');
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #0F0E0E;
+}
+
+.site {
+    display: flex;
+    justify-content:space-between;
+    max-width: 1603px;
+   margin: 0 auto;
+}
+
+.site img {
+    align-items: center;
+    margin-top: 76px;
+    margin-bottom: 164px;
+    
+}
+
+.title h1,
+h2,
+p {
+    margin: 0px;
+    padding: 0 px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 127px;
+    line-height: 154px;
+    color: #FFFFFF
+}
+
+.title {
+    display: flex;
+   
+}
+.sub-title {
+    display: block;
+    max-width: 336px;
+    max-height: 299px;
+    margin-top: 417px;
+    margin-right: -172px;
+}
+
+.title h2 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 13px;
+}
+
+.title p {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 140%;
+}
+.nav-menu {
+    margin-top: 449px;
+  float: left;
+}
+.nav-menu-text {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.nav-menu-text2 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(255, 255, 255, 0.5);
+    margin-top: 95px;
+}
+.nav-menu-text:hover {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    border-bottom: 1px solid #EA98F7;
+    line-height: 29px;
+    color: #EA98F7;
+}
+.nav-menu-text2:hover {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    border-bottom: 1px solid #EA98F7;
+    line-height: 29px;
+    color: #EA98F7;
+}
